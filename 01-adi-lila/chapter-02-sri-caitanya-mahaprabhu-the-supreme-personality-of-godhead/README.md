@@ -1,13 +1,129 @@
-# Chapter 02: Śri Caitanya Mahāprabhu, the Supreme Personality of Godhead
+# Ādi-līlā — Chapter 02: Śrī Caitanya Mahāprabhu, the Supreme Personality of Godhead
 
-**Śrī Caitanya-caritāmṛta — Ādi-līlā**
+**Source:** [Vedabase — Ādi-līlā Chapter 2](https://vedabase.io/en/library/cc/adi/2/)
 
-**Authorized source:** [Vedabase — Ādi-līlā, Chapter 2](https://vedabase.io/en/library/cc/adi/2/)
+**121 numbered texts**, organized into individual zero-padded `verse-02.XX-keyword` folders. One-word themes are provisional editorial study aids and should be reviewed against the corresponding authorized verse.
 
-## Chapter study
-
-The chapter title follows the Vedabase Ādi-līlā table of contents.
-
-## Verse-by-verse study
-
-*Verse folders, summaries and study notes will be added in the next stage after checking the source verse divisions. Consult Vedabase for the original text, translations and purports.*
+| Text | Theme | Study folder | Vedabase |
+|---|---|---|---|
+| 02.01 | Mercy | [Open](./verse-02.01-mercy/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/1/) |
+| 02.02 | Nectar | [Open](./verse-02.02-nectar/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/2/) |
+| 02.03 | Glories | [Open](./verse-02.03-glories/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/3/) |
+| 02.04 | Auspiciousness | [Open](./verse-02.04-auspiciousness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/4/) |
+| 02.05 | Supremacy | [Open](./verse-02.05-supremacy/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/5/) |
+| 02.06 | Features | [Open](./verse-02.06-features/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/6/) |
+| 02.07 | Explanation | [Open](./verse-02.07-explanation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/7/) |
+| 02.08 | Transcendence | [Open](./verse-02.08-transcendence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/8/) |
+| 02.09 | Descent | [Open](./verse-02.09-descent/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/9/) |
+| 02.10 | Realizations | [Open](./verse-02.10-realizations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/10/) |
+| 02.11 | Nonduality | [Open](./verse-02.11-nonduality/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/11/) |
+| 02.12 | Effulgence | [Open](./verse-02.12-effulgence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/12/) |
+| 02.13 | Speculation | [Open](./verse-02.13-speculation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/13/) |
+| 02.14 | Govinda | [Open](./verse-02.14-govinda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/14/) |
+| 02.15 | Brahman | [Open](./verse-02.15-brahman/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/15/) |
+| 02.16 | Creation | [Open](./verse-02.16-creation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/16/) |
+| 02.17 | Brahmaloka | [Open](./verse-02.17-brahmaloka/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/17/) |
+| 02.18 | Supersoul | [Open](./verse-02.18-supersoul/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/18/) |
+| 02.19 | Reflection | [Open](./verse-02.19-reflection/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/19/) |
+| 02.20 | Omnipresence | [Open](./verse-02.20-omnipresence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/20/) |
+| 02.21 | Realization | [Open](./verse-02.21-realization/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/21/) |
+| 02.22 | Compassion | [Open](./verse-02.22-compassion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/22/) |
+| 02.23 | Narayana | [Open](./verse-02.23-narayana/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/23/) |
+| 02.24 | Absoluteness | [Open](./verse-02.24-absoluteness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/24/) |
+| 02.25 | Vision | [Open](./verse-02.25-vision/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/25/) |
+| 02.26 | Worship | [Open](./verse-02.26-worship/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/26/) |
+| 02.27 | Sun | [Open](./verse-02.27-sun/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/27/) |
+| 02.28 | Analogy | [Open](./verse-02.28-analogy/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/28/) |
+| 02.29 | Forms | [Open](./verse-02.29-forms/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/29/) |
+| 02.30 | Flute | [Open](./verse-02.30-flute/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/30/) |
+| 02.31 | Prayer | [Open](./verse-02.31-prayer/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/31/) |
+| 02.32 | Forgiveness | [Open](./verse-02.32-forgiveness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/32/) |
+| 02.33 | Parenthood | [Open](./verse-02.33-parenthood/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/33/) |
+| 02.34 | Pardon | [Open](./verse-02.34-pardon/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/34/) |
+| 02.35 | Inquiry | [Open](./verse-02.35-inquiry/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/35/) |
+| 02.36 | Evidence | [Open](./verse-02.36-evidence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/36/) |
+| 02.37 | Souls | [Open](./verse-02.37-souls/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/37/) |
+| 02.38 | Shelter | [Open](./verse-02.38-shelter/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/38/) |
+| 02.39 | Refuge | [Open](./verse-02.39-refuge/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/39/) |
+| 02.40 | Originality | [Open](./verse-02.40-originality/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/40/) |
+| 02.41 | Purusas | [Open](./verse-02.41-purusas/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/41/) |
+| 02.42 | Father | [Open](./verse-02.42-father/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/42/) |
+| 02.43 | Protection | [Open](./verse-02.43-protection/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/43/) |
+| 02.44 | Universes | [Open](./verse-02.44-universes/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/44/) |
+| 02.45 | Omniscience | [Open](./verse-02.45-omniscience/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/45/) |
+| 02.46 | Supervision | [Open](./verse-02.46-supervision/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/46/) |
+| 02.47 | Wanderings | [Open](./verse-02.47-wanderings/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/47/) |
+| 02.48 | Discussion | [Open](./verse-02.48-discussion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/48/) |
+| 02.49 | Expansion | [Open](./verse-02.49-expansion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/49/) |
+| 02.50 | Vishnus | [Open](./verse-02.50-vishnus/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/50/) |
+| 02.51 | Supersouls | [Open](./verse-02.51-supersouls/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/51/) |
+| 02.52 | Indwelling | [Open](./verse-02.52-indwelling/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/52/) |
+| 02.53 | Transcendence | [Open](./verse-02.53-transcendence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/53/) |
+| 02.54 | Dimension | [Open](./verse-02.54-dimension/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/54/) |
+| 02.55 | Illusion | [Open](./verse-02.55-illusion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/55/) |
+| 02.56 | Detachment | [Open](./verse-02.56-detachment/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/56/) |
+| 02.57 | Shelter | [Open](./verse-02.57-shelter/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/57/) |
+| 02.58 | Expansion | [Open](./verse-02.58-expansion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/58/) |
+| 02.59 | Conclusion | [Open](./verse-02.59-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/59/) |
+| 02.60 | Essence | [Open](./verse-02.60-essence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/60/) |
+| 02.61 | Speculation | [Open](./verse-02.61-speculation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/61/) |
+| 02.62 | Misinterpretation | [Open](./verse-02.62-misinterpretation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/62/) |
+| 02.63 | Refutation | [Open](./verse-02.63-refutation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/63/) |
+| 02.64 | Nonduality | [Open](./verse-02.64-nonduality/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/64/) |
+| 02.65 | Features | [Open](./verse-02.65-features/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/65/) |
+| 02.66 | Absoluteness | [Open](./verse-02.66-absoluteness/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/66/) |
+| 02.67 | Evidence | [Open](./verse-02.67-evidence/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/67/) |
+| 02.68 | Incarnations | [Open](./verse-02.68-incarnations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/68/) |
+| 02.69 | Classification | [Open](./verse-02.69-classification/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/69/) |
+| 02.70 | Distinction | [Open](./verse-02.70-distinction/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/70/) |
+| 02.71 | Fountainhead | [Open](./verse-02.71-fountainhead/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/71/) |
+| 02.72 | Objection | [Open](./verse-02.72-objection/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/72/) |
+| 02.73 | Interpretation | [Open](./verse-02.73-interpretation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/73/) |
+| 02.74 | Scripture | [Open](./verse-02.74-scripture/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/74/) |
+| 02.75 | Predicate | [Open](./verse-02.75-predicate/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/75/) |
+| 02.76 | Subject | [Open](./verse-02.76-subject/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/76/) |
+| 02.77 | Explanation | [Open](./verse-02.77-explanation/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/77/) |
+| 02.78 | Example | [Open](./verse-02.78-example/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/78/) |
+| 02.79 | Knowledge | [Open](./verse-02.79-knowledge/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/79/) |
+| 02.80 | Incarnations | [Open](./verse-02.80-incarnations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/80/) |
+| 02.81 | Grammar | [Open](./verse-02.81-grammar/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/81/) |
+| 02.82 | Identification | [Open](./verse-02.82-identification/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/82/) |
+| 02.83 | Conclusion | [Open](./verse-02.83-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/83/) |
+| 02.84 | Reversal | [Open](./verse-02.84-reversal/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/84/) |
+| 02.85 | Hypothesis | [Open](./verse-02.85-hypothesis/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/85/) |
+| 02.86 | Authority | [Open](./verse-02.86-authority/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/86/) |
+| 02.87 | Contradiction | [Open](./verse-02.87-contradiction/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/87/) |
+| 02.88 | Originality | [Open](./verse-02.88-originality/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/88/) |
+| 02.89 | Candle | [Open](./verse-02.89-candle/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/89/) |
+| 02.90 | Causality | [Open](./verse-02.90-causality/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/90/) |
+| 02.91 | Cosmology | [Open](./verse-02.91-cosmology/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/91/) |
+| 02.92 | Protection | [Open](./verse-02.92-protection/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/92/) |
+| 02.93 | Categories | [Open](./verse-02.93-categories/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/93/) |
+| 02.94 | Shelter | [Open](./verse-02.94-shelter/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/94/) |
+| 02.95 | Refuge | [Open](./verse-02.95-refuge/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/95/) |
+| 02.96 | Bhagavatam | [Open](./verse-02.96-bhagavatam/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/96/) |
+| 02.97 | Knowledge | [Open](./verse-02.97-knowledge/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/97/) |
+| 02.98 | Expansions | [Open](./verse-02.98-expansions/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/98/) |
+| 02.99 | Incarnations | [Open](./verse-02.99-incarnations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/99/) |
+| 02.100 | Youth | [Open](./verse-02.100-youth/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/100/) |
+| 02.101 | Unity | [Open](./verse-02.101-unity/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/101/) |
+| 02.102 | Internal | [Open](./verse-02.102-internal/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/102/) |
+| 02.103 | External | [Open](./verse-02.103-external/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/103/) |
+| 02.104 | Marginal | [Open](./verse-02.104-marginal/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/104/) |
+| 02.105 | Energies | [Open](./verse-02.105-energies/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/105/) |
+| 02.106 | Purusas | [Open](./verse-02.106-purusas/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/106/) |
+| 02.107 | Source | [Open](./verse-02.107-source/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/107/) |
+| 02.108 | Govinda | [Open](./verse-02.108-govinda/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/108/) |
+| 02.109 | Debate | [Open](./verse-02.109-debate/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/109/) |
+| 02.110 | Descent | [Open](./verse-02.110-descent/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/110/) |
+| 02.111 | Supremacy | [Open](./verse-02.111-supremacy/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/111/) |
+| 02.112 | Possibilities | [Open](./verse-02.112-possibilities/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/112/) |
+| 02.113 | Incarnations | [Open](./verse-02.113-incarnations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/113/) |
+| 02.114 | Interpretations | [Open](./verse-02.114-interpretations/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/114/) |
+| 02.115 | Identities | [Open](./verse-02.115-identities/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/115/) |
+| 02.116 | Obeisances | [Open](./verse-02.116-obeisances/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/116/) |
+| 02.117 | Discussion | [Open](./verse-02.117-discussion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/117/) |
+| 02.118 | Conviction | [Open](./verse-02.118-conviction/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/118/) |
+| 02.119 | Glorification | [Open](./verse-02.119-glorification/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/119/) |
+| 02.120 | Conclusion | [Open](./verse-02.120-conclusion/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/120/) |
+| 02.121 | Disciplic | [Open](./verse-02.121-disciplic/README.md) | [Source](https://vedabase.io/en/library/cc/adi/2/121/) |
