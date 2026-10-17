@@ -1,13 +1,118 @@
-# Chapter 01: The Spiritual Masters
+# Ādi-līlā — Chapter 01: The Spiritual Masters
 
-**Śrī Caitanya-caritāmṛta — Ādi-līlā**
+**Source:** [Vedabase — Ādi-līlā Chapter 1](https://vedabase.io/en/library/cc/adi/1/)
 
-**Authorized source:** [Vedabase — Ādi-līlā, Chapter 1](https://vedabase.io/en/library/cc/adi/1/)
+**110 numbered texts**, each organized into its own `verse-01.XX-oneword` folder. Vedabase groups some consecutive texts in shared entries; each numbered text still receives an individual study folder. Themes are provisional editorial study labels, not verified translations or Sanskrit synonyms.
 
-## Chapter study
-
-The chapter title follows the Vedabase Ādi-līlā table of contents.
-
-## Verse-by-verse study
-
-*Verse folders, summaries and study notes will be added in the next stage after checking the source verse divisions. Consult Vedabase for the original text, translations and purports.*
+| Text | Theme | Study folder | Source |
+|---|---|---|---|
+| 01.01 | Invocation | [Open](./verse-01.01-invocation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/1/) |
+| 01.02 | Benediction | [Open](./verse-01.02-benediction/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/2/) |
+| 01.03 | Supremacy | [Open](./verse-01.03-supremacy/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/3/) |
+| 01.04 | Mercy | [Open](./verse-01.04-mercy/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/4/) |
+| 01.05 | Union | [Open](./verse-01.05-union/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/5/) |
+| 01.06 | Longing | [Open](./verse-01.06-longing/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/6/) |
+| 01.07 | Nityananda | [Open](./verse-01.07-nityananda/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/7/) |
+| 01.08 | Sankarsana | [Open](./verse-01.08-sankarsana/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/8/) |
+| 01.09 | Creation | [Open](./verse-01.09-creation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/9/) |
+| 01.10 | Supersoul | [Open](./verse-01.10-supersoul/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/10/) |
+| 01.11 | Maintenance | [Open](./verse-01.11-maintenance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/11/) |
+| 01.12 | Advaita | [Open](./verse-01.12-advaita/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/12/) |
+| 01.13 | Acarya | [Open](./verse-01.13-acarya/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/13/) |
+| 01.14 | Pancatattva | [Open](./verse-01.14-pancatattva/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/14/) |
+| 01.15 | Madanamohana | [Open](./verse-01.15-madanamohana/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/15/) |
+| 01.16 | Govinda | [Open](./verse-01.16-govinda/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/16/) |
+| 01.17 | Gopinatha | [Open](./verse-01.17-gopinatha/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/17/) |
+| 01.18 | Glorification | [Open](./verse-01.18-glorification/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/18/) |
+| 01.19 | Deities | [Open](./verse-01.19-deities/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/19/) |
+| 01.20 | Remembrance | [Open](./verse-01.20-remembrance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/20/) |
+| 01.21 | Blessings | [Open](./verse-01.21-blessings/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/21/) |
+| 01.22 | Invocation | [Open](./verse-01.22-invocation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/22/) |
+| 01.23 | Obeisances | [Open](./verse-01.23-obeisances/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/23/) |
+| 01.24 | Truth | [Open](./verse-01.24-truth/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/24/) |
+| 01.25 | Mercy | [Open](./verse-01.25-mercy/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/25/) |
+| 01.26 | Appearance | [Open](./verse-01.26-appearance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/26/) |
+| 01.27 | Caitanya | [Open](./verse-01.27-caitanya/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/27/) |
+| 01.28 | Nityananda | [Open](./verse-01.28-nityananda/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/28/) |
+| 01.29 | Advaita | [Open](./verse-01.29-advaita/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/29/) |
+| 01.30 | Invocation | [Open](./verse-01.30-invocation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/30/) |
+| 01.31 | Humility | [Open](./verse-01.31-humility/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/31/) |
+| 01.32 | Attention | [Open](./verse-01.32-attention/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/32/) |
+| 01.33 | Manifestations | [Open](./verse-01.33-manifestations/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/33/) |
+| 01.34 | Worship | [Open](./verse-01.34-worship/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/34/) |
+| 01.35 | Obeisances | [Open](./verse-01.35-obeisances/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/35/) |
+| 01.36 | Initiation | [Open](./verse-01.36-initiation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/36/) |
+| 01.37 | Instruction | [Open](./verse-01.37-instruction/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/37/) |
+| 01.38 | Gratitude | [Open](./verse-01.38-gratitude/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/38/) |
+| 01.39 | Devotees | [Open](./verse-01.39-devotees/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/39/) |
+| 01.40 | Advaita | [Open](./verse-01.40-advaita/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/40/) |
+| 01.41 | Nityananda | [Open](./verse-01.41-nityananda/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/41/) |
+| 01.42 | Gadadhara | [Open](./verse-01.42-gadadhara/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/42/) |
+| 01.43 | Caitanya | [Open](./verse-01.43-caitanya/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/43/) |
+| 01.44 | Diversity | [Open](./verse-01.44-diversity/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/44/) |
+| 01.45 | Guru | [Open](./verse-01.45-guru/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/45/) |
+| 01.46 | Representation | [Open](./verse-01.46-representation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/46/) |
+| 01.47 | Scripture | [Open](./verse-01.47-scripture/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/47/) |
+| 01.48 | Instruction | [Open](./verse-01.48-instruction/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/48/) |
+| 01.49 | Supersoul | [Open](./verse-01.49-supersoul/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/49/) |
+| 01.50 | Guidance | [Open](./verse-01.50-guidance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/50/) |
+| 01.51 | Revelation | [Open](./verse-01.51-revelation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/51/) |
+| 01.52 | Knowledge | [Open](./verse-01.52-knowledge/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/52/) |
+| 01.53 | Creation | [Open](./verse-01.53-creation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/53/) |
+| 01.54 | Illusion | [Open](./verse-01.54-illusion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/54/) |
+| 01.55 | Immanence | [Open](./verse-01.55-immanence/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/55/) |
+| 01.56 | Inquiry | [Open](./verse-01.56-inquiry/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/56/) |
+| 01.57 | Glorification | [Open](./verse-01.57-glorification/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/57/) |
+| 01.58 | Association | [Open](./verse-01.58-association/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/58/) |
+| 01.59 | Devotion | [Open](./verse-01.59-devotion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/59/) |
+| 01.60 | Saints | [Open](./verse-01.60-saints/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/60/) |
+| 01.61 | Purification | [Open](./verse-01.61-purification/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/61/) |
+| 01.62 | Association | [Open](./verse-01.62-association/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/62/) |
+| 01.63 | Incarnations | [Open](./verse-01.63-incarnations/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/63/) |
+| 01.64 | Manifestations | [Open](./verse-01.64-manifestations/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/64/) |
+| 01.65 | Expansion | [Open](./verse-01.65-expansion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/65/) |
+| 01.66 | Multiplicity | [Open](./verse-01.66-multiplicity/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/66/) |
+| 01.67 | Manifestations | [Open](./verse-01.67-manifestations/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/67/) |
+| 01.68 | Diversity | [Open](./verse-01.68-diversity/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/68/) |
+| 01.69 | Forms | [Open](./verse-01.69-forms/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/69/) |
+| 01.70 | Expansions | [Open](./verse-01.70-expansions/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/70/) |
+| 01.71 | Energies | [Open](./verse-01.71-energies/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/71/) |
+| 01.72 | Associates | [Open](./verse-01.72-associates/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/72/) |
+| 01.73 | Worship | [Open](./verse-01.73-worship/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/73/) |
+| 01.74 | Benediction | [Open](./verse-01.74-benediction/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/74/) |
+| 01.75 | Worship | [Open](./verse-01.75-worship/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/75/) |
+| 01.76 | Compassion | [Open](./verse-01.76-compassion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/76/) |
+| 01.77 | Happiness | [Open](./verse-01.77-happiness/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/77/) |
+| 01.78 | Enlightenment | [Open](./verse-01.78-enlightenment/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/78/) |
+| 01.79 | Ignorance | [Open](./verse-01.79-ignorance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/79/) |
+| 01.80 | Scripture | [Open](./verse-01.80-scripture/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/80/) |
+| 01.81 | Liberation | [Open](./verse-01.81-liberation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/81/) |
+| 01.82 | Rejection | [Open](./verse-01.82-rejection/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/82/) |
+| 01.83 | Ignorance | [Open](./verse-01.83-ignorance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/83/) |
+| 01.84 | Mercy | [Open](./verse-01.84-mercy/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/84/) |
+| 01.85 | Chanting | [Open](./verse-01.85-chanting/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/85/) |
+| 01.86 | Illumination | [Open](./verse-01.86-illumination/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/86/) |
+| 01.87 | Bhagavatas | [Open](./verse-01.87-bhagavatas/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/87/) |
+| 01.88 | Devotion | [Open](./verse-01.88-devotion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/88/) |
+| 01.89 | Wonder | [Open](./verse-01.89-wonder/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/89/) |
+| 01.90 | Compassion | [Open](./verse-01.90-compassion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/90/) |
+| 01.91 | Worship | [Open](./verse-01.91-worship/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/91/) |
+| 01.92 | Benediction | [Open](./verse-01.92-benediction/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/92/) |
+| 01.93 | Brevity | [Open](./verse-01.93-brevity/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/93/) |
+| 01.94 | Eloquence | [Open](./verse-01.94-eloquence/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/94/) |
+| 01.95 | Hearing | [Open](./verse-01.95-hearing/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/95/) |
+| 01.96 | Realization | [Open](./verse-01.96-realization/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/96/) |
+| 01.97 | Prayer | [Open](./verse-01.97-prayer/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/97/) |
+| 01.98 | Benediction | [Open](./verse-01.98-benediction/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/98/) |
+| 01.99 | Caitanya | [Open](./verse-01.99-caitanya/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/99/) |
+| 01.100 | Nityananda | [Open](./verse-01.100-nityananda/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/100/) |
+| 01.101 | Devotion | [Open](./verse-01.101-devotion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/101/) |
+| 01.102 | Mercy | [Open](./verse-01.102-mercy/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/102/) |
+| 01.103 | Knowledge | [Open](./verse-01.103-knowledge/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/103/) |
+| 01.104 | Love | [Open](./verse-01.104-love/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/104/) |
+| 01.105 | Revelation | [Open](./verse-01.105-revelation/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/105/) |
+| 01.106 | Glorification | [Open](./verse-01.106-glorification/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/106/) |
+| 01.107 | Remembrance | [Open](./verse-01.107-remembrance/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/107/) |
+| 01.108 | Surrender | [Open](./verse-01.108-surrender/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/108/) |
+| 01.109 | Conclusion | [Open](./verse-01.109-conclusion/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/109/) |
+| 01.110 | Prayer | [Open](./verse-01.110-prayer/README.md) | [Vedabase](https://vedabase.io/en/library/cc/adi/1/110/) |
