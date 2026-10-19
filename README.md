@@ -1,3 +1,5 @@
+> **Reading collection:** The consolidated scripture library is now under [Spirituality → Reading → Caitanya-caritāmṛta](https://github.com/nbnayak88/Srimad-Bhagavatam/tree/main/spirituality/03-reading/caitanya-caritamrta). Use that location for ongoing study. This original repository remains available to preserve existing links and history.
+
 # Śrī Caitanya-caritāmṛta
 
 A structured, chapter-by-chapter study repository for **Śrī Caitanya-caritāmṛta**, with authorized source links to Vedabase.
